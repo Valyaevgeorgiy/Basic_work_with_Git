@@ -3,7 +3,7 @@
 
 2) Создание аккаунта на github.com.
 
-
+![image](https://user-images.githubusercontent.com/71630161/141163677-68c38265-afd9-446b-87bf-845888136e98.png)
 
 3) Cоздание репозитория.
 
