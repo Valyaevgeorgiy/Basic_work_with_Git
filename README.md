@@ -1,3 +1,4 @@
+# Отчёт о проделанной работе с Git & GitHub.
 
 1) Установка Git на компьютер.
 
@@ -9,18 +10,20 @@
 
 ![image](https://user-images.githubusercontent.com/71630161/141163797-60b7e3dc-6a45-4328-a28a-77a95196d2b6.png)
 
-4) Обратите внимание на появление в этой папке скрытой подпапки с названием .git. 
+4) История коммитов
 
+![image](https://user-images.githubusercontent.com/71630161/141164113-5160da99-04b2-4464-8c98-df581c3606df.png)
+
+![image](https://user-images.githubusercontent.com/71630161/141164518-ea78287b-d411-410d-a235-4e8af982a14b.png)
 
 5) Создание нового файла для исходного текста программы. Написание  нескольких строк.
 
-7) Добавление файла с исходным в индекс репозитория.
+![image](https://user-images.githubusercontent.com/71630161/141164815-589df630-2146-4717-b8db-87d0314a3ed3.png)
 
+6) Добавление файла с исходным в индекс репозитория.
 
-Коммит.
+![image](https://user-images.githubusercontent.com/71630161/141165098-64dd7267-dfd3-43a9-959f-33d270921576.png)
 
+7) Коммит изменений.
 
-
-8)История коммитов
-
-
+![image](https://user-images.githubusercontent.com/71630161/141165177-8681b64a-8314-4438-8aaf-f5fc8a104b33.png)
